@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011788075598",
+    "project_id": "fir-crud-lesson",
+    "storage_bucket": "fir-crud-lesson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011788075598:android:afa4210b1c81c7781e691f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_lesson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011788075598-3kmlg0lj1m8ignomraji3fohl8d77uka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1K-B_Wk4eUW9LQ-KHelpT93AfX3FK6pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011788075598-3kmlg0lj1m8ignomraji3fohl8d77uka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
